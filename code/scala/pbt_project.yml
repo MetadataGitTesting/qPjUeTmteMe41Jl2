@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: jntm7rqo.osxji9fu@igyoei9r.com
     createdAt: '2025-12-05 20:46:05'
     configurations:
-      pipelineConfigurations/vernita.champlin/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert/dev:
-        name: dev
-        author: null
-        createdAt: '2025-12-05 20:46:05'
       pipelineConfigurations/vernita.champlin/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert/dev2:
         name: dev2
-        author: null
-        createdAt: '2025-12-05 20:46:05'
-      pipelineConfigurations/vernita.champlin/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert/dev3:
-        name: dev3
         author: null
         createdAt: '2025-12-05 20:46:05'
     basePipeline: 30/pipelines/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert
