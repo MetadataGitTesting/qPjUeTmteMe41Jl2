@@ -1,0 +1,75 @@
+name: shanelle.blick
+description: Organized
+version: 0.0.1
+author: jntm7rqo.osxji9fu@igyoei9r.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: shanelleblick
+  parentArtefactID: jntm7rqoosxji9fuigyoei9rcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 20:46:04'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 20:46:04'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T20:46:04.766711Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '236453885'
+  createdAt: '2025-12-05T20:46:04.766711Z'
+  type: plibMaven
+projectDependencies:
+  '30':
+    projectUID: 30
+    projectName: vernita.champlin
+    repositoryPath: gitUri=http://gitserver:3000/dev_r7RXX4a8_team_119/dev_r7RXX4a8_project_30.git&subPath=
+    version: vernita.champlin/8.76.665
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 20:46:04'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/vernita.champlin/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert:
+    author: jntm7rqo.osxji9fu@igyoei9r.com
+    createdAt: '2025-12-05 20:46:05'
+    configurations:
+      pipelineConfigurations/vernita.champlin/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert/dev:
+        name: dev
+        author: null
+        createdAt: '2025-12-05 20:46:05'
+      pipelineConfigurations/vernita.champlin/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert/dev2:
+        name: dev2
+        author: null
+        createdAt: '2025-12-05 20:46:05'
+      pipelineConfigurations/vernita.champlin/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert/dev3:
+        name: dev3
+        author: null
+        createdAt: '2025-12-05 20:46:05'
+    basePipeline: 30/pipelines/Mrs__Lenard_HoppeAdam_MewayTyra_Reichert
+projectConfigurations: {}
